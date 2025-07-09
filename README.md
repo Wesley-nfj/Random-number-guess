@@ -8,6 +8,9 @@ This game is a great starting point for new Python learners. With just a few lin
 - Basic input and output with `input()` and `print()`
 - Simple conditional logic using `if` and `else`
 - Type conversion with `int()`
+- Error Handling with try... except
+- Tracking the number of attempts a user makes.
+
 
 ## 🚀 How to Play
 1. Run the Python script.
